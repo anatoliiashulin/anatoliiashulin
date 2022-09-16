@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anatoliy</h1>
+<h2 align="center">Hi 👋, I'm Anatoliy</h2>
 
 [![codewars](https://www.codewars.com/users/Kruzarun/badges/large)](https://www.codewars.com/users/Kruzarun) 
 
