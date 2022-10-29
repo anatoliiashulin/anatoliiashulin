@@ -26,5 +26,13 @@
 <p align="left">
 </p>
 
+| Название проекта | Задачи проекта| Используемые библиотеки
+| --- | --- | ---
+| [1.  Определение стоимости автомобилей](https://github.com/anatoliiashulin/Determining-the-value-of-the-car)| Построение модели определения стоимости автомобиля | pandas, matplotlib, seaborn, sklearn, lightgbm, catboost
+| [2. Выбор локации для скважины](https://github.com/anatoliiashulin/Choosing-the-location-for-the-well) | Определение наиболее выгодного региона нефтедобычи | pandas, numpy, sklearn, matplotlib 
+| [3. Прогнозирование сердечных заболеваний](https://github.com/anatoliiashulin/Heart-diseases-prediction) |  В данном проекте на основе имеющихся данных требуется спрогнозировать риск сердечной недостаточности| pandas, matplotlib.pyplot, numpy, sklearn, seaborn
+| [4. Прогнозирование оттока клиентов в сети отелей](https://github.com/anatoliiashulin/Hotel-chain) |  Спрогнозировать кто из клиентов откажется от брони| pandas, matplotlib.pyplot, numpy, seaborn, sklearn
+| [5. Защита данных клиентов страховой компании](https://github.com/anatoliiashulin/Data-protection) | Разработка модели анонимизации персональных данных| pandas, matplotlib.pyplot, seaborn, numpy
+| [6. Классификаиция клиентов телеком компании](https://github.com/anatoliiashulin/Determination-of-a-promising-tariff-for-a-telecom-company) |На основе данных предложить клиенту тариф. | pandas, sklearn, matplotlib.pyplot, seaborn
 
 
