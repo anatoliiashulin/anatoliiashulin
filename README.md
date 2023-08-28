@@ -29,6 +29,7 @@
 
 | Название проекта | Задачи проекта| Используемые библиотеки
 | --- | --- | ---
+| [1.  Поиск фотографии по описанию](https://github.com/anatoliiashulin/search_photos)| Поиск фотографии по текстовуму описанию | os, re, pandas, numpy, seaborn, matplotlib.pyplot, PIL, tqdm, spacy, tensorflow, sklearn, nltk, wordcloud 
 | [1.  Прогнозирование температуры звезды](https://github.com/anatoliiashulin/Determination-of-the-temperature-of-a-star)| Построить нейронную сеть прогнозирующую температуру звезды | torch, sklearn, pandas, matplotlib.pyplot, seaborn, numpy
 | [2.  Определение стоимости автомобилей](https://github.com/anatoliiashulin/Determining-the-value-of-the-car)| Построение модели определения стоимости автомобиля | pandas, matplotlib, seaborn, sklearn, lightgbm, catboost
 | [3. Выбор локации для скважины](https://github.com/anatoliiashulin/Choosing-the-location-for-the-well) | Определение наиболее выгодного региона нефтедобычи | pandas, numpy, sklearn, matplotlib 
